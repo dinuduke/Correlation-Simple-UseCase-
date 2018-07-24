@@ -5,9 +5,8 @@
 ## Use Case :
 **To Analyse vehicle's Fuel Efficiency based on vehicle characteristics correlation in python**
 
-  . The dataset of vehicle fuel efficiency is from university of california. 
-  
-  . The vehicle characteristics can help explain fuel consumption (mpg).
+    • The dataset of vehicle fuel efficiency is from university of california. 
+    • The vehicle characteristics can help explain fuel consumption (mpg).
   
 Lets Start with Correlating the vehicle characteristics
 
@@ -15,9 +14,9 @@ Lets Start with Correlating the vehicle characteristics
 The term "correlation" refers to a mutual relationship or association between quantities. In almost any business, it is useful to express one quantity in terms of its relationship with others.
 
 ### So, why is correlation a useful metric?
-• Correlation can help in predicting one quantity from another
-• Correlation can (but often does not, as we will see in some examples below) indicate the presence of a causal relationship
-• Correlation is used as a basic quantity and foundation for many other modeling techniques
+    • Correlation can help in predicting one quantity from another
+    • Correlation can (but often does not, as we will see in some examples below) indicate the presence of a causal relationship
+    • Correlation is used as a basic quantity and foundation for many other modeling techniques
 
 ### Covariance
 Covariance is a statistical measure of association between two variables X and Y.
