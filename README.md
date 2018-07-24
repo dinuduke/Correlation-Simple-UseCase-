@@ -6,6 +6,7 @@
 **To Analyse vehicle's Fuel Efficiency based on vehicle characteristics correlation in python**
 
   . The dataset of vehicle fuel efficiency is from university of california. 
+  
   . The vehicle characteristics can help explain fuel consumption (mpg).
   
 Lets Start with Correlating the vehicle characteristics
@@ -21,7 +22,7 @@ The term "correlation" refers to a mutual relationship or association between qu
 ### Covariance
 Covariance is a statistical measure of association between two variables X and Y.
 
-Pearson Correlation Coefficient:
+### Pearson Correlation Coefficient:
 Pearson is the most widely used correlation coefficient. Pearson correlation measures the linear association between continuous variables. In other words, this coefficient quantifies the degree to which a relationship between two variables can be described by a line. 
 
 ### Spearman's Correlation:
